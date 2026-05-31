@@ -108,3 +108,7 @@
     transform: scale(1.2);
   }
 }
+
+.card:hover .card__title {
+  color: $color-link-card-hover;
+}
